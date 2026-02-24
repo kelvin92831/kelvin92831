@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/陳楷寰](https://www.linkedin.com/in/%E6%A5%B7%E5%AF%B0-%E9%99%B3-b011292b4/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="陳楷寰" height="30" width="40" /></a>
-<a href="https://fb.com/陳楷寰" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="陳楷寰" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%E6%A5%B7%E5%AF%B0-%E9%99%B3-b011292b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="陳楷寰" height="30" width="40" /></a>
+<a href="https://fb.com/kelvin.chen.825681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="陳楷寰" height="30" width="40" /></a>
 <a href="https://instagram.com/ckh_0831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ckh_0831" height="30" width="40" /></a>
 </p>
 
