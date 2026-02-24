@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kelvin92831&theme=flat" alt="kelvin92831" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kelvin92831&theme=flat&v=1" alt="github-trophy" />
   </a> 
 </p>
 
@@ -50,6 +50,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvin92831&show_icons=true&locale=en&layout=compact" alt="kelvin92831" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kelvin92831&show_icons=true&locale=en" alt="kelvin92831" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvin92831&show_icons=true&locale=en&layout=compact&v=1" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvin92831&show_icons=true&locale=en&v=1" alt="github-stats" />
 </p>
